@@ -1,0 +1,4 @@
+name:12rt
+year:33
+a_price:1.09
+d_price:0.98
